@@ -37,3 +37,11 @@ A beautiful, interactive, and practical web development cheat sheet to help rein
 1. Clone the repository:
    ```bash
    git clone https://github.com/reinevannel/web-cheatsheet.git
+
+
+## ✍️ Author
+
+🦋 Reine Vannel Studio  
+UX Designer & Front-End Developer  
+
+**Created with ❤️ — during my Front-End Developer courses on Codecademy.**
